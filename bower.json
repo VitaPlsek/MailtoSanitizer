@@ -1,0 +1,22 @@
+{
+  "name": "mailto-sanitizer",
+  "description": "Transform sanitized mail email(at)domain(to)org into mailto element",
+  "authors": [
+    "Víťa Plšek <vita.plsek@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "email",
+    "mailto",
+    "sanitize"
+  ],
+  "main": "mailto-sanitizer.js",
+  "ignore": [
+    "karma.conf.js",
+    "*.spec.js",
+    ".travis.yml",
+    "package.json"
+  ],
+  "homepage": "https://github.com/winsik/MailtoSanitizer",
+  "moduleType": []
+}
