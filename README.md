@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/winsik/MailtoSanitizer.svg?branch=master)](https://travis-ci.org/winsik/MailtoSanitizer)
+
 # MailtoSanitizer
 
 Simple utility for transformation sanitized email in mailto element.
