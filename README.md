@@ -4,6 +4,20 @@
 
 Simple utility for transformation sanitized email in mailto element.
 
+## Instalation
+
+### Bower
+
+```
+bower install mailto-sanitizer
+```
+
+### Npm
+
+```
+npm install mailto-sanitizer
+```
+
 ## Usage
 
 ### Default behavior
